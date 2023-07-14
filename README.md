@@ -10,5 +10,5 @@ Desenvolvido no curso de JavaScript Moderno do Dev Samurai.
 
 ### `Projeto Online`
 
-Para ver o projeto online é só clicar [aqui](https://password-generate-liart.vercel.app/) ou acessar pelo link [https://password-generate-liart.vercel.app/](https://password-generate-liart.vercel.app/).
+Para ver o projeto online é só clicar [aqui](https://passwordgenerate.gribeiro.dev) ou acessar pelo link [https://passwordgenerate.gribeiro.dev](https://passwordgenerate.gribeiro.dev).
 
